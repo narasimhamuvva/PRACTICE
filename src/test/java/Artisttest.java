@@ -5,7 +5,7 @@ import org.junit.Test;
 /**
  * Created by narasimharaomuvva on 13/12/2015.
  */
-public class Artisttest {
+public class ArtistTest {
 
         @Test
         public void artisttest()
