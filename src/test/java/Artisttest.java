@@ -8,7 +8,7 @@ import org.junit.Test;
 public class ArtistTest {
 
         @Test
-        public void artisttest()
+        public void simpletest()
         {
             Assert.assertTrue(true);
         }
